@@ -1,6 +1,23 @@
-/* styles.css */
+/* style.css */
 
-class-one{
+.class-one{
     background-color: #ffc0cb;
-    font: Verdana, DejaVu Sans, "sans-serif"; 
+    font-family: "DeJavu Sans", sans-serif; 
+}
+
+.class-two{
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.class-three{
+    background-color: #ffc0cb;
+    font-family: sans-serif; 
+    font-size: 24px;    
+}
+
+.class-four{
+    color: #008000;
+    font-size: 24px;
+    font-weight: bold;
 }
