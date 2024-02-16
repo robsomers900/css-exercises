@@ -1,1 +1,27 @@
 /* Add CSS Styling */
+
+.avatar{
+    background-color: #f0f8ff;
+}
+
+.original{
+    background-color: #faebd7;
+}
+
+.proportioned{
+    background-color: #00ffff;
+}
+
+.distorted{
+    background-color: #7fffd4;
+}
+
+.avatar.proportioned{
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted{
+    width: 200;
+    height: 400px;
+}
